@@ -1,13 +1,13 @@
 # Flipper Zero: Gameboy Link Port Module
 
-![Gameboy link port module](images\Image.jpeg)
+![Gameboy link port module](images/Image.jpeg)
 
 This is a module I worked on as a project to learn about PCB design, but to also learn about KiCAD, which is the program that was used to create this. I used [GAME BOY Pokemon Trading MALVEKE](https://github.com/EstebanFuentealba/Flipper-Zero-Game-Boy-Pokemon-Trading) to create this. Check is out because he is a way smarter guy than I. 
 
 I use his GPIO layout so you will want to do the same on your flipper zero. If you use his Pokemon app in [flipper.net](https://lab.flipper.net/apps/pokemon) then it will be the under "Select Pinout" > "Original".
 
 Copied shamelessly off of his Github.
-![GPIO Layout](images\GPIO-GBPIN_light-v2.png)
+![GPIO Layout](images/GPIO-GBPIN_light-v2.png)
 
 | Cable Game Link (Socket) | Flipper Zero GPIO 
 | ----------- | ----------- |
