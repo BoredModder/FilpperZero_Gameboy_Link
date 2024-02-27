@@ -27,4 +27,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#folders for backups
+FilpperZero_Gameboy_Link_V2-backups/
+FilpperZero_Gameboy_Link-backups/
+
 # End of https://www.toptal.com/developers/gitignore/api/windows
